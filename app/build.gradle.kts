@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pomodorowatch"
+    namespace = "com.marcositta.pomodorowatch"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.pomodorowatch"
+        applicationId = "com.marcositta.pomodorowatch"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
