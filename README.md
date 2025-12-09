@@ -29,4 +29,6 @@ Desenvolvido como parte de estudos em **Kotlin** e **Mobile Development**, este 
 4. Execute em um Emulador Wear OS ou Device Físico via Wi-Fi Debugging.
 
 ---
+*Este projeto foi desenvolvido como parte de um estudo prático sobre desenvolvimento Mobile e Wear OS, utilizando Inteligência Artificial (LLMs) como ferramenta de apoio para pair programming, geração de boilerplate e otimização de lógica.*
+
 *Desenvolvido por Marco Sitta.*
