@@ -451,7 +451,10 @@ fun VisualClock(total: Float, current: Float, state: WatchState, isAmbient: Bool
         }) {
             drawImage(
                 image = tomatoImage,
-                dstOffset = IntOffset((tomatoCenterX - (tomatoSizePx / 2)).toInt(), (tomatoCenterY - (tomatoSizePx / 2)).toInt()),
+                dstOffset = IntOffset(
+                    (tomatoCenterX - (tomatoSizePx / 2)).toInt(),
+                    (tomatoCenterY - (tomatoSizePx / 2)).toInt()
+                ),
                 dstSize = IntSize(sizeInt, sizeInt),
                 alpha = tomatoAlpha
             )
